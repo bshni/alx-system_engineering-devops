@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 bshni bshni 4096 Jul 11 23:54 .
+drwxrwxr-x 6 bshni bshni 4096 Jul 11 21:44 ..
+-rwxrw-r-- 1 bshni bshni   32 Jul 11 21:40 0-hello_world
+-rwxrw-r-- 1 bshni bshni   28 Jul 11 22:02 1-confused_smiley
+-rwxrw-r-- 1 bshni bshni   28 Jul 11 22:03 2-hellofile
+-rwxrw-r-- 1 bshni bshni   39 Jul 11 22:10 3-twofiles
+-rwxrw-r-- 1 bshni bshni   35 Jul 11 22:12 4-lastlines
+-rwxrw-r-- 1 bshni bshni   35 Jul 11 22:18 5-firstlines
+-rwxrw-r-- 1 bshni bshni   40 Jul 11 22:59 6-third_line
+-rwxrw-r-- 1 bshni bshni   78 Jul 11 23:49 7-file
+-rwxrw-r-- 1 bshni bshni   72 Jul 11 23:02 7-file~
+-rw-rw-r-- 1 bshni bshni   20 Jul 11 23:52 #8-cwd_state#
+-rw-rw-r-- 1 bshni bshni    0 Jul 11 23:54 gg
+-rw-rw-r-- 1 bshni bshni   36 Jul 11 21:43 README.md
